@@ -1,0 +1,5 @@
+@use '@cloudscape-design/design-tokens/index' as awsui;
+
+.top-navigation-container {
+    border-bottom: 2px solid awsui.$color-border-divider-default;
+}

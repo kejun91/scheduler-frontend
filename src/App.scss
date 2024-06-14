@@ -1,0 +1,13 @@
+@use '@cloudscape-design/design-tokens/index' as awsui;
+
+.App {
+  text-align: center;
+  background-color: awsui.$color-background-layout-main;
+  margin:20px 40px;
+}
+
+.Sticked-Navigation {
+  position:sticky;
+  top: 0;
+  z-index:100;
+}

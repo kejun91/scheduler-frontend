@@ -1,0 +1,48 @@
+.Custom-Input {
+    border-collapse: separate;
+    border-spacing: 0;
+    caption-side: top;
+    cursor: auto;
+    direction: ltr;
+    empty-cells: show;
+    font-family: serif;
+    font-size: medium;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: normal;
+    -webkit-hyphens: none;
+            hyphens: none;
+    letter-spacing: normal;
+    list-style: disc outside none;
+    tab-size: 8;
+    text-align: left;
+    text-align-last: auto;
+    text-indent: 0;
+    text-shadow: none;
+    text-transform: none;
+    visibility: visible;
+    white-space: normal;
+    widows: 2;
+    word-spacing: normal;
+    box-sizing: border-box;
+    font-size: var(--font-body-m-size-dhtyxm, 14px);
+    line-height: var(--font-body-m-line-height-5wv9x1, 20px);
+    color: var(--color-text-body-default-2sxhhn, #000716);
+    font-weight: 400;
+    font-family: var(--font-family-base-dnvic8, "Open Sans", "Helvetica Neue", Roboto, Arial, sans-serif);
+    -webkit-font-smoothing: auto;
+    -moz-osx-font-smoothing: auto;
+    padding: var(--space-scaled-xxs-7597g1, 4px) var(--space-field-horizontal-gg19kw, 12px);
+    color: var(--color-text-body-default-2sxhhn, #000716);
+    /* width: 100%; */
+    cursor: text;
+    box-sizing: border-box;
+    background-color: var(--color-background-input-default-igdh5e, #ffffff);
+    border-radius: var(--border-radius-input-plgbrq, 8px);
+    border: var(--border-field-width-09w7vk, 2px) solid var(--color-border-input-default-1zl7hq, #7d8998);
+    font-size: var(--font-body-m-size-dhtyxm, 14px);
+    line-height: var(--font-body-m-line-height-5wv9x1, 20px);
+    height: var(--size-vertical-input-v5iwwf, 32px);
+}
