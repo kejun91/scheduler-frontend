@@ -1,4 +1,4 @@
-# up-web-tools-frontend
+# scheduler-frontend
 Frontend source code of [Scheduler](https://github.com/kejun91/scheduler)
 
 ## Available Scripts
