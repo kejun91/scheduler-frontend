@@ -1,5 +1,5 @@
 # up-web-tools-frontend
-Frontend source code of [Up Web Tools](https://github.com/WirelessCar-Internal/up-web-tools)
+Frontend source code of [Scheduler](https://github.com/kejun91/scheduler)
 
 ## Available Scripts
 
